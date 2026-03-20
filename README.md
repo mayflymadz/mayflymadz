@@ -1,4 +1,7 @@
 ## 👋 Hi, I’m Madison
+
+*"We are such stuff as dreams are made of"*
+
 I'm interested in anything and everything. Mostly, I just like making cool things. Whether thats playing my guitar, making mediocre watercolor paintings, being a game master, or writing code, I love creating. Life gets so much more interesting when you realize that you don't have to have a specialty, and you can do whatever you want. 
 
 When it comes to programming, my professional experience is in embedded systems in C++. But at home, I like working in Python and Java and experimenting with frameworks like React and UnrealEngine. I guess that makes me full stack?
