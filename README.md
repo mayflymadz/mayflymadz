@@ -11,5 +11,4 @@ Anyway, have fun stalking my GitHub account. Most of this code is pretty old bec
 ### Projects I'm Working On:
 * Web Scraping Tool for LinkedIn
 * Personal Website
-* Writing Drivers -- IDK I've always wanted to work on drivers. I think they're rad.
-* Sheep
+* Himbochi
